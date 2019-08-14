@@ -4,7 +4,7 @@
 ********************************************************************
 *** Filename: aasd.sv         Created by Joshua Rothe, 21 Feb 17 ***
 *** --- Rev: 0.1 - Initial release (JR) 2/21/17                  ***
-*** --- 0.2 - Updated for use in RISC-Y (JR) 5/4/17              ***
+*** --- 0.2 - Updated for use in RISC-V (JR) 5/4/17              ***
 ********************************************************************
 *** This module synchronizes an async reset input with the clk   ***
 *** of a synchronous circuit for better performance.             ***
