@@ -5,7 +5,7 @@
 *** Filename: mux.sv          Created by Joshua Rothe, 28 Feb 17 ***
 *** --- Rev: 0.1 - Initial release (JR) 2/28/17                  ***
 *** --- 0.2 - Minor fixes per lab report (JR) 4/27/17            ***
-*** --- 0.3 - Adjusted for RISC-Y (JR) 5/8/17                    ***
+*** --- 0.3 - Adjusted for RISC-V (JR) 5/8/17                    ***
 ********************************************************************
 *** This module creates a scalable 2:1 MUX.                      ***
 ********************************************************************/
