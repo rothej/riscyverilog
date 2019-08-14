@@ -4,7 +4,7 @@
 ********************************************************************
 *** Filename: phaser.sv       Created by Joshua Rothe, 27 Apr 17 ***
 *** --- Rev: 0.1 - Initial release (JR) 4/27/17                  ***
-*** --- 0.2 - Edited for RISC-Y (JR) 5/9/17                      ***
+*** --- 0.2 - Edited for RISC-V (JR) 5/9/17                      ***
 ********************************************************************
 *** This module creates a phase generator that converts a clock  ***
 *** signal into one of 4 cycle codes for the sequence controller ***
