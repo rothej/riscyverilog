@@ -4,7 +4,7 @@
 ********************************************************************
 *** Filename: ram.sv Created by Joshua Rothe, 28 Mar 17          ***
 *** --- Rev: 0.1 - Initial release (JR) 3/28/17                  ***
-*** --- 0.2 - Edited for RISC-Y processor (JR) 5/8/17            ***
+*** --- 0.2 - Edited for RISC-V processor (JR) 5/8/17            ***
 ********************************************************************
 *** This module creates a scalable RAM module as a register.     ***
 ********************************************************************/
