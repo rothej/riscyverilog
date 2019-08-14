@@ -29,8 +29,8 @@ module rom(DATA1, ADR, OE, CS);
 
 // Code
 always @(OE or ADR) begin
-    if (!CS && OE) // CS low, OE high to read
-        DATA_OUT = MEM[ADR]; // adr contents are placed in data bus
+    if (!CS && OE)                                  // CS low, OE high to read
+        DATA_OUT = MEM[ADR];                        // adr contents are placed in data bus
 end
 
 endmodule
