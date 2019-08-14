@@ -5,7 +5,7 @@
 *** Filename: count_s.sv      Created by Joshua Rothe, 21 Feb 17 ***
 *** --- Rev: 0.1 - Initial release (JR) 2/21/17                  ***
 *** --- 0.2 - Minor fixes per lab report (JR) 4/27/17            ***
-*** --- 0.3 - Adjusted for RISC-Y processor (JR) 5/8/17          ***
+*** --- 0.3 - Adjusted for RISC-V processor (JR) 5/8/17          ***
 ********************************************************************
 *** This module models an n-bit reloadable up counter, with sync ***
 *** active low reset, and synch active high load and enable.     ***
