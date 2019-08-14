@@ -5,7 +5,7 @@
 *** Filename: alu.sv           Created by Joshua Rothe, 9 Apr 17 ***
 *** --- Rev: 0.1 - Initial release (JR) 4/9/17                   ***
 *** --- 0.2 - Minor fixes per lab report (JR) 4/27/17            ***
-*** --- 0.3 - Adjusted for RISC-Y processor (JR) 5/8/17          ***
+*** --- 0.3 - Adjusted for RISC-V processor (JR) 5/8/17          ***
 ********************************************************************
 *** This module creates an arithmetic-logic unit.                ***
 ********************************************************************/
